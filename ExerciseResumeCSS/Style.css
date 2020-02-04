@@ -5,6 +5,9 @@ h1 {
     text-decoration: underline;
     font-family: arial;
     text-align: center;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
 }
 
 h2 {
@@ -17,6 +20,7 @@ h3 {
     font-size: 20px;
     font-family: arial;
     text-align: center;
+    
 }
 
 h4 {
@@ -25,6 +29,9 @@ h4 {
     text-decoration: underline;
     font-family: arial;
     text-align: center;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
 }
 
 h5 {
@@ -33,16 +40,21 @@ h5 {
     text-decoration: underline;
     font-family: arial;
     text-align: center;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
 }
 
 p {
     color: blue;
     font-size: 20px;
     font-family: arial;
+    line-height: 25px;
 }
 
 ul {
     color: blue;
     font-size: 20px;
     font-family: arial;
+    line-height: 25px;
 }
