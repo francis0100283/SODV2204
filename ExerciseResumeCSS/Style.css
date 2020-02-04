@@ -1,0 +1,48 @@
+h1 {
+    color: blue;
+    background-color: slategray;
+    font-size: 60px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: arial;
+    text-align: center;
+}
+
+h4 {
+    background-color: slategray;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+}
+
+h5 {
+    background-color: slategray;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+    font-family: arial;
+}
+
+ul {
+    color: blue;
+    font-size: 20px;
+    font-family: arial;
+}
