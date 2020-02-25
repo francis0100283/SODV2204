@@ -8,16 +8,20 @@ h1, h4, h5 {
 
     background-color: cornflowerblue;
     text-align: center;  
+    border: 2px solid;
 }
 
 h2, h3 {
     
     text-align: center;
+    
 }
 
 .button {
     background-color: yellowgreen;
     text-align: center;
+    border: 2px solid;
+    width: 15%
 }
 
 
