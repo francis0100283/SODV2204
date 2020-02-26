@@ -1,0 +1,54 @@
+.title {
+    text-align: center;
+    font-family: Arial;
+    background-color: yellow;
+
+}
+
+.navi {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    background-color:gray;
+
+}
+
+.v1 {
+    margin-left: 50px;
+    background-color: yellow;
+}
+
+.one {
+    margin-left: 60px;
+}
+
+.chorus {
+    margin-left: 70px;
+    background-color: yellow;
+}
+
+.chorusone {
+    margin-left: 80px;
+}
+
+.v2 {
+    margin-left: 50px;
+    background-color: yellow
+}
+
+.two {
+    margin-left: 60px;
+}
+
+.chorus2 {
+    margin-left: 70px;
+    background-color: yellow;
+}
+
+.chorustwo {
+    margin-left: 80px;
+}
+
+.foot {
+    border-top-style: solid yellow;
+}
