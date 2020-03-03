@@ -30,46 +30,60 @@ nav a {
 
 .img {
     margin-left: 100px;
-    margin-top: -120px;
+    margin-top: -140px;
+    width: 200px;
+    height: 200px;
+
     
 }
 
 .v1 {
     margin-left: 50px;
     background-color: yellow;
+    width: 10%;
+    text-align: center;
+        
 }
 
 .one {
-    margin-left: 60px;
+    margin-left: 70px;
 }
 
 .chorus {
-    margin-left: 70px;
+    margin-left: 80px;
     background-color: yellow;
+    width: 10%;
+    text-align: center;
 }
 
 .chorusone {
-    margin-left: 80px;
+    margin-left: 100px;
 }
 
 .v2 {
     margin-left: 50px;
-    background-color: yellow
+    background-color: yellow;
+    width: 10%;
+    text-align: center;
 }
 
 .two {
-    margin-left: 60px;
+    margin-left: 70px;
 }
 
 .chorus2 {
-    margin-left: 70px;
+    margin-left: 80px;
     background-color: yellow;
+    width: 10%;
+    text-align: center;
+
 }
 
 .chorustwo {
-    margin-left: 80px;
+    margin-left: 100px;
 }
 
-.foot {
-    border-top-style: solid yellow;
+
+section a {
+    background-color: yellow;
 }
