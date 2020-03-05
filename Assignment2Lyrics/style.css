@@ -1,6 +1,6 @@
 .title {
     text-align: center;
-    font-family: Arial;
+    font-family: oblique;
     font-size: 20px;
     background: yellow;
     height:40px;
@@ -28,25 +28,78 @@ nav a {
     text-decoration: none;
 }
 
-.img {
-    margin-left: 100px;
-    margin-top: -140px;
-    width: 200px;
-    height: 200px;
 
+.image {
+    margin-left: 50px;
+    margin-top: -250px;
+    width: 230px;
+    height: 200px;
+}
+
+.bg_image {
+    background-image: url('./talking_heads-speaking_in_tongues.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    margin-top: -20px;
+    height: 300px;
+}
+
+.bg_overlay {
+    background:black;
+    position: absolute;
+    top: 95px;
+    left: 105px;
+    
+}
+
+.bg_grid {
+    display:grid;
+    grid-template-columns: 70% 30%;
+
+}
+
+.text {
+    margin-left: 100px;
+    margin-top: -250px;
+}
+
+.text h1 {
+    color: yellow;
+    font-size: 35px;
+
+}
+
+.text h2 {
+    color: white;
+    
+
+}
+.text h3 {
+    color: lightgrey;
+
+}
+
+.bod_grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
     
 }
 
 .v1 {
-    margin-left: 50px;
+    margin-left: 38px;
     background-color: yellow;
     width: 10%;
     text-align: center;
+    font-family: arial;
         
 }
 
 .one {
-    margin-left: 70px;
+    margin-left: 40px;
+    font-family: arial;
+    border-left: solid yellow;
+    padding-left: 1%;
 }
 
 .chorus {
@@ -54,21 +107,30 @@ nav a {
     background-color: yellow;
     width: 10%;
     text-align: center;
+    font-family: arial;
 }
 
 .chorusone {
-    margin-left: 100px;
+    margin-left: 80px;
+    font-family: arial;
+    border-left: solid yellow;
+    padding-left: 1%;
 }
 
 .v2 {
-    margin-left: 50px;
+    margin-left: 38px;
     background-color: yellow;
     width: 10%;
     text-align: center;
+    font-family: arial;
 }
 
 .two {
-    margin-left: 70px;
+    margin-left: 40px;
+    font-family: arial;
+    border-left: solid yellow;
+    padding-left: 1%;
+
 }
 
 .chorus2 {
@@ -76,13 +138,22 @@ nav a {
     background-color: yellow;
     width: 10%;
     text-align: center;
+    font-family: arial;
 
 }
 
 .chorustwo {
-    margin-left: 100px;
+    margin-left: 80px;
+    font-family: arial;
+    border-left: solid yellow;
+    padding-left: 1%;
+    
 }
 
+.footer {
+    border-top: solid yellow;
+    padding-top: 2%;
+}
 
 section a {
     background-color: yellow;
