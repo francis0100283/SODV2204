@@ -59,6 +59,23 @@ nav a {
 
 }
 
+.bod_grid {
+    display: grid;
+    background-color: yellow;
+    color: black;
+    padding: 15px;
+    font-size: 1em;
+       
+}
+aside {
+    background-color: gray;
+    color: white;
+    background-position: left;
+    width: 25%;
+    font-size: .5 em;
+    
+}
+
 .text {
     margin-left: 100px;
     margin-top: -250px;
