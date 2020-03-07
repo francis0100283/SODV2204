@@ -61,8 +61,8 @@ nav a {
 
 .bod_grid {
     display: grid;
-    grid-template-columns: 2f;
-    margin: auto 0;
+    grid-template-columns: 1f;
+    margin: auto 0%;
     background-color: yellow;
     color: black;
     padding: 15px;
@@ -77,8 +77,8 @@ aside {
     background-color: gray;
     color: white;
     background-position: left;
-    width: 25%;
-    font-size: .5 em;
+    width: 26%;
+    font-size: 1em;
 
     
 }
