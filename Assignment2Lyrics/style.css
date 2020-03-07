@@ -99,15 +99,10 @@ aside {
     
 
 }
+
 .text h3 {
     color: lightgrey;
 
-}
-
-.bod_grid {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    
 }
 
 .v1 {
