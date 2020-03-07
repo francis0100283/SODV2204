@@ -46,7 +46,7 @@ nav a {
 }
 
 .bg_overlay {
-    background:black;
+    background: black;
     position: absolute;
     top: 95px;
     left: 105px;
@@ -61,18 +61,25 @@ nav a {
 
 .bod_grid {
     display: grid;
+    grid-template-columns: 2f;
+    margin: auto 0;
     background-color: yellow;
     color: black;
     padding: 15px;
     font-size: 1em;
+
        
 }
 aside {
+    display: grid;
+    grid-template-columns: 100%;
+    margin: auto 65%;
     background-color: gray;
     color: white;
     background-position: left;
     width: 25%;
     font-size: .5 em;
+
     
 }
 
